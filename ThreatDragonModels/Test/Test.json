@@ -1408,22 +1408,6 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 687,
-                "y": 457
-              },
-              "target": {
-                "x": 1119,
-                "y": 145
-              },
-              "vertices": [],
-              "id": "c0b70980-ab5e-4427-a62c-971ac948d497",
-              "z": 41,
-              "attrs": {}
-            },
-            {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
                 "x": 1265,
                 "y": 110
               },
